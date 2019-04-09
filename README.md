@@ -1,4 +1,4 @@
-# video-reverse
+# reverse-video
 This software is designed to reverse the videos.
 
 #### Developer: [Ravin Kumar](https://mr-ravin.github.io)
